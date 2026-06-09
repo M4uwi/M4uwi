@@ -5,7 +5,6 @@
 
 - 🔭 Electronic & Computer Engineering.
 - 💬 Ask me about 🇰🇪.
-- 😄 Pronouns: He/ His.
 - ⚡ Fun fact: Warren G. Bennis: "The factory of the future will have only two employees, a man, and a dog. The man👨‍🦱 will be there to feed the dog🐕‍🦺. 
 
 <h2 align="center">❤ Views and Followers</h2>
