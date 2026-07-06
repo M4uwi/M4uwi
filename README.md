@@ -4,6 +4,7 @@
 ### Here are some ideas to get you started:
 
 - 🔭 Electronic & Computer Engineering.
+- 📊 Data Science
 - 💬 Ask me about 🇰🇪.
 - ⚡ Fun fact: Warren G. Bennis: "The factory of the future will have only two employees, a man, and a dog. The man👨‍🦱 will be there to feed the dog🐕‍🦺. 
 
