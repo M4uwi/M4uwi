@@ -1,27 +1,25 @@
-
-<h1 align="center" fontsize="60px">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%" height="10%"> I'm Kenneth Mauwi</h1>
-
-### Here are some ideas to get you started:
-
-- 🔭 Electronic & Computer Engineering.
-- 📊 Data Science
-- 💬 Ask me about 🇰🇪.
-- ⚡ Fun fact: Warren G. Bennis: "The factory of the future will have only two employees, a man, and a dog. The man👨‍🦱 will be there to feed the dog🐕‍🦺. 
-
-<h2 align="center">❤ Views and Followers</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m4uwi&label=Profile%20views&color=0e75b6&style=flat" alt="m4uwi" /> 
-<a href="https://github.com/M4uwi?tab=followers"><img src="https://img.shields.io/github/followers/M4uwi?label=Followers&style=social" alt="GitHub Badge"></a></p>  
-<p align="center"> 
-  You are visitor number<br>
-  <img src="https://profile-counter.glitch.me/M4uwi/count.svg" />
-</p>
-
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kenneth Mauwi</h1>
 <p align="center">
-    <a href="https://github.com/M4uwi/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="M4uwi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=M4uwi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Electronics+%26+Computer+Eng+Student;Data+Science+Enthusiast;Pythoning+all+the+things...;Hardware+meets+Data" alt="Typing SVG" />
 </p>
 
+---
 
- 
+### 🛠️ The Roadmap (So far...)
+
+* **🔭 Hardware & High-Level:** Currently surviving and thriving as an **Electronics & Computer Engineering** student. If it has registers or logic gates, I'm probably looking at it.
+* **⚡ The C-Side:** My GitHub has a couple of solid **C projects** holding down the fort. Low-level memory management is my jam.
+* **📊 Data Science Shift:** Currently 3 weeks deep into the **Python ecosystem**. I've swapped semicolons for indentation, and I'm loving the data-crunching life.
+* **💬 Let's Chat:** Ask me about **Kenya 🇰🇪**, building things that blink, or cleaning messy datasets.
+
+---
+
+### 🧪 Tech Stack & Tools
+
+```python
+class Kenneth:
+
+    def __init__(self):
+        self.hardware = ["Digital Electronics", "Microcontrollers", "Logic Gates"]
+        self.languages = ["C", "Python (Day 21 and counting! 🐍)"]
+        self.focus = ["Data Science", "Embedded Systems"]
