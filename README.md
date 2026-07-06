@@ -8,7 +8,6 @@
 ### 🛠️ The Roadmap (So far...)
 
 * **🔭 Hardware & High-Level:** Currently surviving and thriving as an **Electronics & Computer Engineering** student. If it has registers or logic gates, I'm probably looking at it.
-* **⚡ The C-Side:** My GitHub has a couple of solid **C projects** holding down the fort. Low-level memory management is my jam.
 * **📊 Data Science Shift:** Currently 3 weeks deep into the **Python ecosystem**. I've swapped semicolons for indentation, and I'm loving the data-crunching life.
 * **💬 Let's Chat:** Ask me about **Kenya 🇰🇪**, building things that blink, or cleaning messy datasets.
 
