@@ -8,8 +8,6 @@ I am a 5th-year Electronic and Computer Engineering student at **Jomo Kenyatta U
 
 ### 🔭 Currently Working On
 
-Here is a tailored version based on your recent projects:
-
 I'm currently building a **Solar Microgrid with Intelligent Load Management**, where I'm focused on **optimizing power distribution and automated load prioritization for off-grid renewable energy systems**. It's built using an **ESP32 microcontroller, C++, and Python**, and involves **real-time sensor data monitoring, decision-making algorithms, and IoT dashboard integration**.
 
 ### 🛠️ Tools & Technologies
