@@ -20,5 +20,5 @@ class Kenneth:
 
     def __init__(self):
         self.hardware = ["Digital Electronics", "Microcontrollers", "Logic Gates"]
-        self.languages = ["C", "Python (Day 21 and counting! 🐍)"]
+        self.languages = ["C", "Python (🐍)"]
         self.focus = ["Data Science", "Embedded Systems"]
